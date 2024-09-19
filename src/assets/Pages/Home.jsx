@@ -31,7 +31,8 @@ export const Home = () => {
               <img  src="whylogo.png" alt="" />
             </div>
             <div className="main-why-div"  data-aos="fade-up" >
-             <p>Need Cutting-Edge Software Solutions? Look no further than Zigma Solutions, your premier software development partner in Tevalakkara, Kollam District, Kerala, India. Our team of expert developers is committed to crafting exceptional software tailored to your unique requirements. Let Zigma Solutions transform your digital vision into reality with precision and expertise.</p>
+             <p>Need Cutting-Edge Software Solutions?
+             Look no further than Beyond Tech Solution, your premier software development partner located near Standard Chartered Bank in Selvapalayam, Palakkad District, Kerala, India. Our team of expert developers is committed to crafting exceptional software tailored to your unique requirements. Let Beyond Tech Solution transform your digital vision into reality with precision and expertise.</p>
             </div>
           </div>
         </div>
