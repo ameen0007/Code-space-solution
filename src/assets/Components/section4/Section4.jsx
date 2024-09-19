@@ -19,7 +19,7 @@ export const Section4 = () => {
       <div className="inside-about">
         <div className="p" data-aos="fade-up">
           <p>
-          In the Heart of Selvapalayam, Along 1st Street, Near Standard Chartered Bank, Our Development Team Thrives Within the Walls of Building No. 764/9, Shri Krishna Complex. With the distinguished PIN 678013, we're dedicated to crafting exceptional digital solutions. Our passion for innovation and years of expertise drive us to create cutting-edge products that exceed expectations. From software development to app creation, we specialize in bringing ideas to life. Thank you for choosing Beyond Tech Solution to embark on this journey of innovation.
+          In the Heart of Ottappalam, on the First Floor of Building No. 32/418, Along Palakkad Ponnani Road, Near Kanniampuram Sub Post Office, Our Development Team Thrives. With the distinguished PIN 679104, we're dedicated to crafting exceptional digital solutions. Our passion for innovation and years of expertise drive us to create cutting-edge products that exceed expectations. From software development to app creation, we specialize in bringing ideas to life. Thank you for choosing CODE SPACE SOLUTION to embark on this journey of innovation.
           </p>
         </div>
         <div className="img" data-aos="fade-up">

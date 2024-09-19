@@ -15,7 +15,7 @@ export const Footer = () => {
  <div className='main-fdiv'>
     <div  data-aos="zoom-in" className='inf'>
         <img src="reallogo.png" alt="" />
-        <span>BEYOND TECH SOLUTION</span>
+        <span>CODE SPACE SOLUTION</span>
     </div>
  </div>
  <div className='f2' data-aos="fade-up">

@@ -32,7 +32,7 @@ export const Home = () => {
             </div>
             <div className="main-why-div"  data-aos="fade-up" >
              <p>Need Cutting-Edge Software Solutions?
-             Look no further than Beyond Tech Solution, your premier software development partner located near Standard Chartered Bank in Selvapalayam, Palakkad District, Kerala, India. Our team of expert developers is committed to crafting exceptional software tailored to your unique requirements. Let Beyond Tech Solution transform your digital vision into reality with precision and expertise.</p>
+             Look no further than CODE SPACE SOLUTION, your premier software development partner located along Palakkad Ponnani Road, near Kanniampuram Sub Post Office, in Ottappalam, Palakkad District, Kerala, India. Our team of expert developers is committed to crafting exceptional software tailored to your unique requirements. Let CODE SPACE SOLUTION transform your digital vision into reality with precision and expertise.</p>
             </div>
           </div>
         </div>
